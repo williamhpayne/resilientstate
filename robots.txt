@@ -1,0 +1,4 @@
+Sitemap: https://www.resilientstate.co.uk/sitemapindex.xml
+
+User-Agent: *
+Host: www.resilientstate.co.uk
