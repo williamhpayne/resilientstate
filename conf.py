@@ -24,7 +24,6 @@ SITE_URL = 'https://www.resilientstate.co.uk/'
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://www.resilientstate.co.uk/"
-BLOG_EMAIL = "williampayne@resilientstate.co.uk"
 BLOG_DESCRIPTION = "Navigating the Future of State Resilience"  # (translatable)
 
 # Nikola is multilingual!
