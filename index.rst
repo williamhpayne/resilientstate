@@ -17,7 +17,7 @@ Our approach goes beyond standard analysis. We employ advanced scenario planning
 
 Our services include: technology and societal futures forecasting, horizon scanning, public policy analysis, UK/EU procurement evaluation, and public sector operational intelligence.
 
-Our objective: providing the intelligence leaders need to act with confidence.
+Our objective: providing leaders with the intelligence required to act with confidence.
 
 We have worked with: The UK Home Office, the FCDO, the NHS, major investment firms and technology vendors.
 
