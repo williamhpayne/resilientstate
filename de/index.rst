@@ -9,9 +9,9 @@
 
 .. class:: col-md-5
 
-We specialize in high stakes sectors including critical national infrastructure, defence, policing, and healthcare. 
-
 Combining qualitative data with human insight, we help organizations navigate the intersection of public policy, societal shifts, and emerging technology.
+
+We specialize in high stakes sectors including critical national infrastructure, defence, policing, and healthcare. 
 
 Our approach goes beyond standard analysis. We employ advanced scenario planning — including Cross Impact Analysis and Field Anomaly Relaxation (FAR) — to model future risks and opportunities. 
 
