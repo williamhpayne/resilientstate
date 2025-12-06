@@ -1,0 +1,8 @@
+# Ignore Nikola configuration file
+conf.py
+output/
+cache/
+.doit.db.db
+.nikola.py
+*.pyc
+
