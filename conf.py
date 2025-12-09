@@ -146,6 +146,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/", "Home"),
         ("/intelligence-for-a-resilient-future/index.html", "Our Services"),
+        ("/operational-intelligence-achieving-the-competitive-edge/index.html", "Operational Intelligence"),
         ("/archive.html", "Archive"),
         ("/categories/", "Tags"),
         ("/rss.xml", "RSS feed"),
