@@ -23,7 +23,7 @@ We have worked with: The UK Home Office, the FCDO, the NHS, major investment fir
 
 .. raw:: html
 
-    <a href="https://example.com" class="btn btn-primary">Explore Our Services</a>
+    Explore: <a href="/intelligence-for-a-resilient-future/index.html" class="btn btn-primary">Our Services</a>
 
    <br>
    <br>
