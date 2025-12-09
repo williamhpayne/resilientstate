@@ -21,12 +21,25 @@ Our objective: providing leaders with the intelligence required to act with conf
 
 We have worked with: The UK Home Office, the FCDO, the NHS, major investment firms and technology vendors.
 
-.. _Our services include: /intelligence-for-a-resilient-future/index.html
-.. _operational intelligence: /operational-intelligence-achieving-the-competitive-edge/index.html 
 
 .. raw:: html
 
-    Explore: <a href="/intelligence-for-a-resilient-future/index.html" class="btn btn-primary">Our Services</a>; <a href="/operational-intelligence-achieving-the-competitive-edge/index.html" class="btn btn-primary">Operational Intelligence</a>
+   <br>
+   <br>
+
+
+Explore: 
+--------
+
+`Home`_ ; `Our Services`_ ; `Operational Intelligence`_ ; `Engage with Resilient State`_
+
+.. _Our services include: /intelligence-for-a-resilient-future/index.html
+.. _operational intelligence: /operational-intelligence-achieving-the-competitive-edge/index.html 
+.. _Home: /index.html
+.. _Our Services: /intelligence-for-a-resilient-future/index.html
+.. _Operational Intelligence: /operational-intelligence-achieving-the-competitive-edge/index.html 
+.. _Engage with Resilient State: /engage-with-resilient-state/index.html
+.. raw:: html
 
    <br>
    <br>

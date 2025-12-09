@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://www.resilientstate.co.uk/</loc>
-  <lastmod>2025-12-09T11:23:00Z</lastmod>
+  <lastmod>2025-12-09T20:41:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.resilientstate.co.uk/2012/</loc>
@@ -67,7 +67,7 @@
  </url>
  <url>
   <loc>https://www.resilientstate.co.uk/de/</loc>
-  <lastmod>2025-12-09T11:23:00Z</lastmod>
+  <lastmod>2025-12-09T20:41:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.resilientstate.co.uk/de/2012/</loc>
@@ -131,6 +131,10 @@
   <lastmod>2025-12-02T13:38:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.resilientstate.co.uk/de/engage-with-resilient-state/</loc>
+  <lastmod>2025-12-09T20:41:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.resilientstate.co.uk/de/extending/</loc>
   <lastmod>2025-12-02T13:39:00Z</lastmod>
  </url>
@@ -187,8 +191,12 @@
   <lastmod>2025-12-02T13:39:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.resilientstate.co.uk/engage-with-resilient-state/</loc>
+  <lastmod>2025-12-09T20:41:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.resilientstate.co.uk/es/</loc>
-  <lastmod>2025-12-09T11:23:00Z</lastmod>
+  <lastmod>2025-12-09T20:41:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.resilientstate.co.uk/es/2012/</loc>
@@ -252,6 +260,10 @@
   <lastmod>2025-12-02T13:39:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.resilientstate.co.uk/es/engage-with-resilient-state/</loc>
+  <lastmod>2025-12-09T20:41:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.resilientstate.co.uk/es/extending/</loc>
   <lastmod>2025-12-02T13:39:00Z</lastmod>
  </url>
@@ -309,7 +321,7 @@
  </url>
  <url>
   <loc>https://www.resilientstate.co.uk/fr/</loc>
-  <lastmod>2025-12-09T11:23:00Z</lastmod>
+  <lastmod>2025-12-09T20:41:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.resilientstate.co.uk/fr/2012/</loc>
@@ -371,6 +383,10 @@
  <url>
   <loc>https://www.resilientstate.co.uk/fr/dr-nikolas-vendetta/</loc>
   <lastmod>2025-12-02T13:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.resilientstate.co.uk/fr/engage-with-resilient-state/</loc>
+  <lastmod>2025-12-09T20:41:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.resilientstate.co.uk/fr/extending/</loc>
@@ -446,7 +462,7 @@
  </url>
  <url>
   <loc>https://www.resilientstate.co.uk/it/</loc>
-  <lastmod>2025-12-09T11:23:00Z</lastmod>
+  <lastmod>2025-12-09T20:41:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.resilientstate.co.uk/it/2012/</loc>
@@ -508,6 +524,10 @@
  <url>
   <loc>https://www.resilientstate.co.uk/it/dr-nikolas-vendetta/</loc>
   <lastmod>2025-12-02T13:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.resilientstate.co.uk/it/engage-with-resilient-state/</loc>
+  <lastmod>2025-12-09T20:41:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.resilientstate.co.uk/it/extending/</loc>

@@ -54,3 +54,25 @@ For technology vendors and investment firms, understanding the public sector lan
 - Vendor & Technology Assessment: We provide independent validation of technology claims against actual operational requirements in sectors like Defence and Healthcare.
 
 
+.. raw:: html
+
+   <br>
+   <br>
+   <br>
+   <br>
+
+
+Explore: `Home`_ ; `Our Services`_ ; `Operational Intelligence`_ .
+
+.. _Home: /index.html
+.. _Our Services: /intelligence-for-a-resilient-future/index.html
+.. _Operational Intelligence: /operational-intelligence-achieving-the-competitive-edge/index.html 
+
+.. raw:: html
+
+   <br>
+   <br>
+   <br>
+   <br>
+
+

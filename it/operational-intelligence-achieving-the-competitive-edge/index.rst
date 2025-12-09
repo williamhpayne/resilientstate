@@ -32,3 +32,26 @@ Our Three-Pillar Approach:
 
 We move beyond basic market research. We employ Graph Analysis of Open Source Intelligence (OSINT) to map decision-making networks, alongside Cross-Impact Analysis to model competitor behaviours.
 
+
+.. raw:: html
+
+   <br>
+   <br>
+   <br>
+   <br>
+
+
+Explore: `Home`_ ; `Our Services`_ ; `Operational Intelligence`_ .
+
+.. _Home: /index.html
+.. _Our Services: /intelligence-for-a-resilient-future/index.html
+.. _Operational Intelligence: /operational-intelligence-achieving-the-competitive-edge/index.html 
+
+.. raw:: html
+
+   <br>
+   <br>
+   <br>
+   <br>
+
+
