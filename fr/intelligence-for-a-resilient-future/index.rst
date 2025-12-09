@@ -16,9 +16,9 @@ Our services are designed for leaders in government, defence, healthcare, and te
 Strategic Futures & Scenario Planning
 -------------------------------------
 
-We help you rehearse the future before it arrives. Our approach models how technology, public policy, and societal behaviors interact, allowing you to stress-test strategies against multiple potential futures.
+We help you rehearse the future before it arrives. Our approach models how technology, public policy, and societal behaviours interact, allowing you to stress-test strategies against multiple potential futures.
 
-- Complex Interaction Modeling: We map the dependencies between state actors, public services, and market forces to identify second and third-order effects of strategic decisions.
+- Complex Interaction Modelling: We map the dependencies between state actors, public services, and market forces to identify second and third-order effects of strategic decisions.
 
 - Risk & Opportunity Identification: We pinpoint "weak signals" of change that others miss, allowing for early intervention or capitalization.
 
@@ -38,7 +38,7 @@ Data without context is noise. We combine qualitative data analysis with human i
 
 - Horizon Scanning: We continuously monitor the technological and geopolitical landscape to detect emerging threats and opportunities relevant to National Security, Policing, and CNI.
 
-- Public Policy Analysis: We analyze current and proposed legislation to understand its impact on technology deployment and market access.
+- Public Policy Analysis: We analyse current and proposed legislation to understand its impact on technology deployment and market access.
 
 - Trend Analysis: Using collective intelligence, we distinguish between temporary fads and structural shifts in the public sector and commercial markets.
 

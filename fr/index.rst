@@ -9,21 +9,24 @@
 
 .. class:: col-md-5
 
-Combining qualitative data with human insight, we help organizations navigate the intersection of public policy, societal shifts, and emerging technology.
+Combining qualitative data with human insight, we help organisations navigate the intersection of public policy, societal shifts, and emerging technology.
 
-We specialize in high stakes sectors including critical national infrastructure, defence, policing, and healthcare. 
+We specialise in high stakes sectors including critical national infrastructure, defence, policing, and healthcare. 
 
 Our approach goes beyond standard analysis. We employ advanced scenario planning — including Cross Impact Analysis and Field Anomaly Relaxation (FAR) — to model future risks and opportunities. 
 
-Our services include: technology and societal futures forecasting, horizon scanning, public policy analysis, UK/EU procurement evaluation, and public sector operational intelligence.
+`Our services include`_ : technology and societal futures forecasting, horizon scanning, public policy analysis, UK/EU procurement evaluation, and public sector `operational intelligence`_ .
 
 Our objective: providing leaders with the intelligence required to act with confidence.
 
 We have worked with: The UK Home Office, the FCDO, the NHS, major investment firms and technology vendors.
 
+.. _Our services include: /intelligence-for-a-resilient-future/index.html
+.. _operational intelligence: /operational-intelligence-achieving-the-competitive-edge/index.html 
+
 .. raw:: html
 
-    Explore: <a href="/intelligence-for-a-resilient-future/index.html" class="btn btn-primary">Our Services</a>
+    Explore: <a href="/intelligence-for-a-resilient-future/index.html" class="btn btn-primary">Our Services</a>; <a href="/operational-intelligence-achieving-the-competitive-edge/index.html" class="btn btn-primary">Operational Intelligence</a>
 
    <br>
    <br>
