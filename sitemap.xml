@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://www.resilientstate.co.uk/</loc>
-  <lastmod>2025-12-09T09:50:00Z</lastmod>
+  <lastmod>2025-12-09T11:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.resilientstate.co.uk/2012/</loc>
@@ -67,7 +67,7 @@
  </url>
  <url>
   <loc>https://www.resilientstate.co.uk/de/</loc>
-  <lastmod>2025-12-09T09:50:00Z</lastmod>
+  <lastmod>2025-12-09T11:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.resilientstate.co.uk/de/2012/</loc>
@@ -159,6 +159,10 @@
   <lastmod>2025-12-02T13:39:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.resilientstate.co.uk/de/operational-intelligence-achieving-the-competitive-edge/</loc>
+  <lastmod>2025-12-09T11:23:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.resilientstate.co.uk/de/path-handlers/</loc>
   <lastmod>2025-12-02T13:38:00Z</lastmod>
  </url>
@@ -184,7 +188,7 @@
  </url>
  <url>
   <loc>https://www.resilientstate.co.uk/es/</loc>
-  <lastmod>2025-12-09T09:50:00Z</lastmod>
+  <lastmod>2025-12-09T11:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.resilientstate.co.uk/es/2012/</loc>
@@ -276,6 +280,10 @@
   <lastmod>2025-12-02T13:38:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.resilientstate.co.uk/es/operational-intelligence-achieving-the-competitive-edge/</loc>
+  <lastmod>2025-12-09T11:23:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.resilientstate.co.uk/es/path-handlers/</loc>
   <lastmod>2025-12-02T13:39:00Z</lastmod>
  </url>
@@ -301,7 +309,7 @@
  </url>
  <url>
   <loc>https://www.resilientstate.co.uk/fr/</loc>
-  <lastmod>2025-12-09T09:50:00Z</lastmod>
+  <lastmod>2025-12-09T11:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.resilientstate.co.uk/fr/2012/</loc>
@@ -393,6 +401,10 @@
   <lastmod>2025-12-02T13:39:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.resilientstate.co.uk/fr/operational-intelligence-achieving-the-competitive-edge/</loc>
+  <lastmod>2025-12-09T11:23:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.resilientstate.co.uk/fr/path-handlers/</loc>
   <lastmod>2025-12-02T13:39:00Z</lastmod>
  </url>
@@ -434,7 +446,7 @@
  </url>
  <url>
   <loc>https://www.resilientstate.co.uk/it/</loc>
-  <lastmod>2025-12-09T09:50:00Z</lastmod>
+  <lastmod>2025-12-09T11:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.resilientstate.co.uk/it/2012/</loc>
@@ -526,6 +538,10 @@
   <lastmod>2025-12-02T13:39:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.resilientstate.co.uk/it/operational-intelligence-achieving-the-competitive-edge/</loc>
+  <lastmod>2025-12-09T11:23:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.resilientstate.co.uk/it/path-handlers/</loc>
   <lastmod>2025-12-02T13:39:00Z</lastmod>
  </url>
@@ -560,6 +576,10 @@
  <url>
   <loc>https://www.resilientstate.co.uk/listings/hello.py.html</loc>
   <lastmod>2025-12-09T10:02:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.resilientstate.co.uk/operational-intelligence-achieving-the-competitive-edge/</loc>
+  <lastmod>2025-12-09T11:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.resilientstate.co.uk/path-handlers/</loc>
