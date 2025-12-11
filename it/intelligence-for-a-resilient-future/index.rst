@@ -42,32 +42,49 @@ Data without context is noise. We combine qualitative data analysis with human i
 
 - Trend Analysis: Using collective intelligence, we distinguish between temporary fads and structural shifts in the public sector and commercial markets.
 
-Market Analysis & Procurement Strategy
---------------------------------------
+Market Strategy & Procurement
+-----------------------------
 
-For technology vendors and investment firms, understanding the public sector landscape is critical. For government bodies, selecting the right innovation is vital. We bridge this gap.
+For technology vendors and investment firms, understanding the public
+sector landscape is critical. For government bodies, selecting the
+right innovation is vital. We bridge this gap.
 
-- UK & EU Procurement Evaluation: We deconstruct complex procurement frameworks to help vendors position their solutions effectively and help buyers define requirements that are fit for the future.
+-  **UK & EU Procurement Evaluation:** We deconstruct complex
+   procurement frameworks to help vendors position their solutions
+   effectively and help buyers define requirements that are fit for
+   the future.
 
-- Opportunity Identification: We identify gaps in the current market where state resilience needs are unmet, highlighting investment or development potential.
+-  **Opportunity Identification:** We identify gaps in the current
+   market where state resilience needs are unmet, highlighting
+   investment or development potential.
 
-- Vendor & Technology Assessment: We provide independent validation of technology claims against actual operational requirements in sectors like Defence and Healthcare.
-
+-  **Vendor & Roadmap Assessment:** We evaluate the alignment of
+   vendor technologies, capabilities, and roadmaps with buyer
+   strategic objectives and future scenarios spanning a 10-to-15-year
+   horizon. Our analysis synthesizes experience from UK, EU, Latin
+   American, Far Eastern, and Middle Eastern markets, academic
+   research, and public sector feedback. We employ **Cross-Impact
+   Analysis (CIA)** and **Field Anomaly Relaxation (FAR)** to
+   rigorously test long-term technology fit against evolving societal
+   and threat landscapes.
 
 .. raw:: html
 
    <br>
    <br>
-   <br>
-   <br>
 
+Explore: 
+--------
 
-Explore: `Home`_ ; `Our Services`_ ; `Operational Intelligence`_ .
+`Home`_ ; `Our Services`_ ; `Buyer Support`_; `Operational Intelligence`_ ; `Contact Us`_
 
+.. _Our services include: /intelligence-for-a-resilient-future/index.html
+.. _operational intelligence: /operational-intelligence-achieving-the-competitive-edge/index.html 
 .. _Home: /index.html
 .. _Our Services: /intelligence-for-a-resilient-future/index.html
+.. _Buyer Support: /long-range-public-sector-technology-analysis/index.html
 .. _Operational Intelligence: /operational-intelligence-achieving-the-competitive-edge/index.html 
-
+.. _Contact Us: /engage-with-resilient-state/index.html
 .. raw:: html
 
    <br>
