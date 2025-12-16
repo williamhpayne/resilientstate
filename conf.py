@@ -99,13 +99,13 @@ DEFAULT_LANG = "en"
 # What other languages do you have?
 # The format is {"translationcode" : "path/to/translation" }
 # the path will be used as a prefix for the generated pages location
-TRANSLATIONS = {
-    DEFAULT_LANG: "",
-    "de": "./de",
-    "es": "./es",
-    "fr": "./fr",
-    "it": "./it",
-}
+# TRANSLATIONS = {
+#    DEFAULT_LANG: "",
+#    "de": "./de",
+#    "es": "./es",
+#    "fr": "./fr",
+#    "it": "./it",
+#}
 
 # What will translated input files be named like?
 
@@ -115,7 +115,7 @@ TRANSLATIONS = {
 # this pattern is also used for metadata:
 #     something.meta -> something.pl.meta
 
-TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
+# TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 # Links for the sidebar / navigation bar.  (translatable)
 # This is a dict.  The keys are languages, and values are tuples.
@@ -142,50 +142,59 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 #          with a ``/``, otherwise end them with ``/index.html`` — or
 #          else they won’t be highlighted when active.
 
-NAVIGATION_LINKS = {
-    DEFAULT_LANG: (
-        ("/", "Home"),
-        ("/intelligence-for-a-resilient-future/index.html", "Our Services"),
-        ("/operational-intelligence-achieving-the-competitive-edge/index.html", "Operational Intelligence"),
-        ("/archive.html", "Archive"),
-        ("/categories/", "Tags"),
-        ("/rss.xml", "RSS feed"),
-    ),
+NAVIGATION_LINKS = (
+        ('/', 'Home'),
+        (
+            (
+                ('/intelligence-for-a-resilient-future/index.html', 'Our Services'),
+                ('/operational-intelligence-achieving-the-competitive-edge/index.html', 'Operational Intelligence'),
+                ('/long-range-public-sector-technology-analysis/index.html', 'Buyer Support'),
+               ),
+            'Services'
+            ),
+        (
+            (
+                ('', 'NHS'),
+                ('/archive.html', 'Scenarios Archive'),
+                ('/categories/', 'Scenarios Tags'),
+                ('/rss.xml', 'Scenarios RSS feed'),
+                ),
+            'Scenarios'
+            ),
+        (
+             (
+                ('', 'NHS'),
+                ('/archive.html', 'Scenarios Archive'),
+                ('/categories/', 'Scenarios Tags'),
+                ('/rss.xml', 'Scenarios RSS feed'),
+                ),
+            'Briefing Notes'
+            ),
+        (
+            (
+                ('', 'NHS'),
+                ('/archive.html', 'Scenarios Archive'),
+                ('/categories/', 'Scenarios Tags'),
+                ('/rss.xml', 'Scenarios RSS feed'),
+                ),
+            'Posts'
+            ),
+ 
+        ('', 'About Us'),
+        ('/engage-with-resilient-state/index.html', 'Contact Us')
+)
 
-    "de": (
-        ("/de/archive.html", "Archiv"),
-        ("/de/categories/", "Tags"),
-        ("/de/rss.xml", "RSS-Feed"),
-    ),
-
-    "fr": (
-        ("/fr/archive.html", "Archives"),
-        ("/fr/categories/", "Étiquettes"),
-        ("/fr/rss.xml", "Flux RSS"),
-    ),
-
-    "es": (
-        ("/es/archive.html", "Archivo"),
-        ("/es/categories/", "Etiquetas"),
-        ("/es/rss.xml", "Canal RSS"),
-    ),
-
-    "it": (
-        ("/it/archive.html", "Archivio"),
-        ("/it/categories/", "Tag"),
-        ("/it/rss.xml", "Feed RSS"),
-    ),
-}
 
 # Alternative navigation links. Works the same way NAVIGATION_LINKS does,
 # although themes may not always support them. (translatable)
 # (Bootstrap 4: right-side of navbar, Bootblog 4: right side of title)
-NAVIGATION_ALT_LINKS = {
-    DEFAULT_LANG: ()
-}
+#NAVIGATION_ALT_LINKS = {
+#    DEFAULT_LANG: ()
+#}
 
 # Name of the theme to use.
-THEME = "lanyon"
+# THEME = "lanyon"
+THEME = "bootstrap4"
 
 # A theme color. In default themes, it might be displayed by some browsers as
 # the browser UI color (eg. Chrome on Android). Other themes might also use it
@@ -1202,7 +1211,7 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 # """
 
 # Show link to source for the posts?
-# SHOW_SOURCELINK = True
+SHOW_SOURCELINK = False
 # Copy the source files for your pages?
 # Setting it to False implies SHOW_SOURCELINK = False
 # COPY_SOURCES = True

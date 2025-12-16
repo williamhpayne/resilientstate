@@ -7,7 +7,6 @@
 .. description: 
 .. type: text
 
-.. class:: col-md-5
 
 Combining qualitative data with human insight, we help organisations navigate the intersection of public policy, societal shifts, and emerging technology.
 
