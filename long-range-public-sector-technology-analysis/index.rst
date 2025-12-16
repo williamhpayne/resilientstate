@@ -8,7 +8,7 @@
 .. type: text
 
 
-**Introduction:** Public sector agencies cannot afford short-sighted
+Public sector agencies cannot afford short-sighted
 investments. Technology purchased today must serve the citizen in
 10 or 15 years, adapting to political, clinical, and societal shifts
 that are currently unseen. We provide independent, long-range
@@ -17,10 +17,10 @@ evolving needs that it must fulfil over its lifetime.
 
 --------------
 
-The Mandate: Future-Proofing Public Investment
-----------------------------------------------
+Future-Proofing Public Investment
+---------------------------------
 
-Public agencies—from ICBs to Defence Scientific Bodies—operate under
+Public agencies — from ICBs to Defence Scientific Bodies — operate under
 a unique burden: **long-term accountability** with **finite fiscal
 resources**. A procurement decision made today can create a system
 liability for two decades.
@@ -35,19 +35,22 @@ purpose when current threats evolve and unforeseen crises emerge?*
 The Strategic Assessment Framework
 ----------------------------------
 
-We evaluate vendor offerings—their core technology, long-term
-roadmaps, and organizational capabilities—across three critical
+We evaluate vendor offerings — their core technology, long-term
+roadmaps, and organizational capabilities — across three critical
 dimensions:
+
+|
 
 .. csv-table:: 
    :header: "Assessment Dimension","Core Focus", "Mitigated Risk"
-   :widths: 10, 30, 10
+   :widths: 10, 20, 10
 
     "**Societal Fitness**","Alignment with evolving societal requirements, demographics, and public policy shifts (e.g., changes in community care models, public transparency demands).","Political and Public Trust Erosion."
     "**Threat Evolution**","Vendor security roadmaps tested against emerging threat vectors (e.g., Quantum decryption risk, adaptive AI sabotage, state-level cyber-kinetic attacks).","Major Operational Failure and Data Breach."
     "**Technology Sustainability**","Vendor viability, product lifecycle, and capability to integrate with next-generation compute (e.g., Neuromorphic, Optical, Edge AI).","Stranded Assets and System Obsolescence."
 
-
+|
+|
 
 Our Intelligence Methodology
 ----------------------------

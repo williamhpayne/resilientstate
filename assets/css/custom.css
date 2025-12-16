@@ -1,0 +1,22 @@
+body {
+    font-size: 1.15rem; /* Standard is usually 1rem. This makes it larger. */
+    line-height: 1.7;   /* Increase line spacing for better flow */
+}
+
+/* Ensure tables of content (ToC) are clear */
+.contents li {
+    font-size: 1rem;
+}
+
+th, td {
+    padding: 10px;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+}
+

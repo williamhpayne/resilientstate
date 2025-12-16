@@ -7,166 +7,38 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://www.resilientstate.co.uk/categories/blog.xml</loc>
-  <lastmod>2025-12-06T14:41:00Z</lastmod>
+  <lastmod>2025-12-16T18:38:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.resilientstate.co.uk/categories/cat_nikola.xml</loc>
-  <lastmod>2025-12-06T14:41:00Z</lastmod>
+  <lastmod>2025-12-16T18:38:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.resilientstate.co.uk/categories/demo.xml</loc>
-  <lastmod>2025-12-06T14:41:00Z</lastmod>
+  <lastmod>2025-12-16T18:38:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.resilientstate.co.uk/categories/nikola.xml</loc>
-  <lastmod>2025-12-06T14:41:00Z</lastmod>
+  <lastmod>2025-12-16T18:38:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.resilientstate.co.uk/categories/python.xml</loc>
-  <lastmod>2025-12-06T14:41:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.resilientstate.co.uk/de/categories/blog.xml</loc>
-  <lastmod>2025-12-06T14:41:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.resilientstate.co.uk/de/categories/cat_nikola.xml</loc>
-  <lastmod>2025-12-06T14:41:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.resilientstate.co.uk/de/categories/demo.xml</loc>
-  <lastmod>2025-12-06T14:41:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.resilientstate.co.uk/de/categories/nikola.xml</loc>
-  <lastmod>2025-12-06T14:41:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.resilientstate.co.uk/de/categories/python.xml</loc>
-  <lastmod>2025-12-06T14:41:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.resilientstate.co.uk/de/galleries/demo/rss.xml</loc>
-  <lastmod>2025-12-09T11:48:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.resilientstate.co.uk/de/galleries/rss.xml</loc>
-  <lastmod>2025-12-09T11:48:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.resilientstate.co.uk/de/rss.xml</loc>
-  <lastmod>2025-12-06T14:41:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.resilientstate.co.uk/es/categories/blog.xml</loc>
-  <lastmod>2025-12-06T14:41:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.resilientstate.co.uk/es/categories/cat_nikola.xml</loc>
-  <lastmod>2025-12-06T14:41:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.resilientstate.co.uk/es/categories/demo.xml</loc>
-  <lastmod>2025-12-06T14:41:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.resilientstate.co.uk/es/categories/nikola.xml</loc>
-  <lastmod>2025-12-06T14:41:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.resilientstate.co.uk/es/categories/python.xml</loc>
-  <lastmod>2025-12-06T14:41:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.resilientstate.co.uk/es/galleries/demo/rss.xml</loc>
-  <lastmod>2025-12-09T11:48:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.resilientstate.co.uk/es/galleries/rss.xml</loc>
-  <lastmod>2025-12-09T11:48:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.resilientstate.co.uk/es/rss.xml</loc>
-  <lastmod>2025-12-06T14:41:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.resilientstate.co.uk/fr/categories/blog.xml</loc>
-  <lastmod>2025-12-06T14:41:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.resilientstate.co.uk/fr/categories/cat_nikola.xml</loc>
-  <lastmod>2025-12-06T14:41:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.resilientstate.co.uk/fr/categories/demo.xml</loc>
-  <lastmod>2025-12-06T14:41:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.resilientstate.co.uk/fr/categories/nikola.xml</loc>
-  <lastmod>2025-12-06T14:41:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.resilientstate.co.uk/fr/categories/python.xml</loc>
-  <lastmod>2025-12-06T14:41:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.resilientstate.co.uk/fr/galleries/demo/rss.xml</loc>
-  <lastmod>2025-12-09T11:48:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.resilientstate.co.uk/fr/galleries/rss.xml</loc>
-  <lastmod>2025-12-09T11:48:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.resilientstate.co.uk/fr/rss.xml</loc>
-  <lastmod>2025-12-06T14:41:00Z</lastmod>
+  <lastmod>2025-12-16T18:38:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.resilientstate.co.uk/galleries/demo/rss.xml</loc>
-  <lastmod>2025-12-09T11:48:00Z</lastmod>
+  <lastmod>2025-12-16T20:08:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.resilientstate.co.uk/galleries/rss.xml</loc>
-  <lastmod>2025-12-09T11:48:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.resilientstate.co.uk/it/categories/blog.xml</loc>
-  <lastmod>2025-12-06T14:41:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.resilientstate.co.uk/it/categories/cat_nikola.xml</loc>
-  <lastmod>2025-12-06T14:41:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.resilientstate.co.uk/it/categories/demo.xml</loc>
-  <lastmod>2025-12-06T14:41:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.resilientstate.co.uk/it/categories/nikola.xml</loc>
-  <lastmod>2025-12-06T14:41:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.resilientstate.co.uk/it/categories/python.xml</loc>
-  <lastmod>2025-12-06T14:41:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.resilientstate.co.uk/it/galleries/demo/rss.xml</loc>
-  <lastmod>2025-12-09T11:48:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.resilientstate.co.uk/it/galleries/rss.xml</loc>
-  <lastmod>2025-12-09T11:48:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.resilientstate.co.uk/it/rss.xml</loc>
-  <lastmod>2025-12-06T14:41:00Z</lastmod>
+  <lastmod>2025-12-16T20:08:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.resilientstate.co.uk/rss.xml</loc>
-  <lastmod>2025-12-06T14:41:00Z</lastmod>
+  <lastmod>2025-12-16T18:38:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.resilientstate.co.uk/sitemap.xml</loc>
-  <lastmod>2025-12-11T16:41:00Z</lastmod>
+  <lastmod>2025-12-16T22:10:00Z</lastmod>
  </sitemap>
 </sitemapindex>
