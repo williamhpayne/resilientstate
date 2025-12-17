@@ -34,7 +34,7 @@ We utilize structured analytic techniques to reduce bias and increase predictive
 
 - Cross-Impact Analysis: We quantify how the occurrence of one event (e.g., a policy change) alters the probability of another (e.g., technology adoption), creating a dynamic web of causality.
 
-**Operational Intelligence**
+**Horizon Scanning & Trend Analysis**
 
 Data without context is noise. We combine qualitative data analysis with human insight to provide clear, actionable operational intelligence.
 
@@ -44,7 +44,7 @@ Data without context is noise. We combine qualitative data analysis with human i
 
 - Trend Analysis: Using collective intelligence, we distinguish between temporary fads and structural shifts in the public sector and commercial markets.
 
-**Market Strategy & Procurement**
+**Operational Intelligence & Procurement**
 
 For technology vendors and investment firms, understanding the public
 sector landscape is critical. For government bodies, selecting the
