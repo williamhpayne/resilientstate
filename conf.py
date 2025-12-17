@@ -180,7 +180,7 @@ NAVIGATION_LINKS = (
             'Posts'
             ),
  
-        ('', 'About Us'),
+        ('/about-us/index.html', 'About Us'),
         ('/engage-with-resilient-state/index.html', 'Contact Us')
 )
 
