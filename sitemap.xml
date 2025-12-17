@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://www.resilientstate.co.uk/</loc>
-  <lastmod>2025-12-11T16:41:00Z</lastmod>
+  <lastmod>2025-12-17T12:47:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.resilientstate.co.uk/2012/</loc>
@@ -18,8 +18,12 @@
   <lastmod>2025-12-02T13:39:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.resilientstate.co.uk/about-us/</loc>
+  <lastmod>2025-12-17T12:47:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.resilientstate.co.uk/archive.html</loc>
-  <lastmod>2025-12-16T20:08:00Z</lastmod>
+  <lastmod>2025-12-17T12:47:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.resilientstate.co.uk/blog/</loc>
@@ -111,7 +115,7 @@
  </url>
  <url>
   <loc>https://www.resilientstate.co.uk/listings/hello.py.html</loc>
-  <lastmod>2025-12-16T20:08:00Z</lastmod>
+  <lastmod>2025-12-17T12:47:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.resilientstate.co.uk/long-range-public-sector-technology-analysis/</loc>

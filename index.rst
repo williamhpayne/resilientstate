@@ -29,7 +29,7 @@ We have worked with: The UK Home Office, the FCDO, the NHS, major investment fir
 Explore: 
 --------
 
-`Home`_ ; `Our Services`_ ; `Buyer Support`_; `Operational Intelligence`_ ; `Contact Us`_
+`Home`_ ; `Our Services`_ ; `Buyer Support`_; `Operational Intelligence`_ ; `About Us`_; `Contact Us`_
 
 .. _Our services include: /intelligence-for-a-resilient-future/index.html
 .. _operational intelligence: /operational-intelligence-achieving-the-competitive-edge/index.html 
@@ -37,6 +37,7 @@ Explore:
 .. _Our Services: /intelligence-for-a-resilient-future/index.html
 .. _Buyer Support: /long-range-public-sector-technology-analysis/index.html
 .. _Operational Intelligence: /operational-intelligence-achieving-the-competitive-edge/index.html 
+.. _About Us: /about-us/index.html
 .. _Contact Us: /engage-with-resilient-state/index.html
 .. raw:: html
 

@@ -933,10 +933,12 @@ html[dir="rtl"] body {
     min-height: 25px;
 }
 
-body {
-    font-size: 1.15rem; /* Standard is usually 1rem. This makes it larger. */
-    line-height: 1.7;   /* Increase line spacing for better flow */
-}
+
+
+/*body { */
+/*    font-size: 1.15rem; *//* Standard is usually 1rem. This makes it larger. */
+/*    line-height: 1.7;   *//* Increase line spacing for better flow */
+/*} */
 
 /* Ensure tables of content (ToC) are clear */
 .contents li {
