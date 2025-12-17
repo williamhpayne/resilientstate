@@ -19,7 +19,7 @@ At Resilient State, we provide the foresight required to navigate the intersecti
 Our services are designed for leaders in government, defence, healthcare, and technology who need to anticipate complex societal shifts and make evidence-based decisions in high-stakes environments.
 
 Strategic Futures & Scenario Planning
-=====================================
+_____________________________________
 
 We help you rehearse the future before it arrives. Our approach models how technology, public policy, and societal behaviours interact, allowing you to stress-test strategies against multiple potential futures.
 
@@ -27,8 +27,8 @@ We help you rehearse the future before it arrives. Our approach models how techn
 
 - Risk & Opportunity Identification: We pinpoint "weak signals" of change that others miss, allowing for early intervention or capitalization.
 
-Our Methodology: The Rigour Behind the Forecast 
-===============================================
+Our Methodology: 
+________________
 
 We utilize structured analytic techniques to reduce bias and increase predictive accuracy:
 
@@ -36,8 +36,8 @@ We utilize structured analytic techniques to reduce bias and increase predictive
 
 - Cross-Impact Analysis: We quantify how the occurrence of one event (e.g., a policy change) alters the probability of another (e.g., technology adoption), creating a dynamic web of causality.
 
-Operational Intelligence & Horizon Scanning
-===========================================
+Operational Intelligence
+________________________
 
 Data without context is noise. We combine qualitative data analysis with human insight to provide clear, actionable operational intelligence.
 
@@ -48,7 +48,7 @@ Data without context is noise. We combine qualitative data analysis with human i
 - Trend Analysis: Using collective intelligence, we distinguish between temporary fads and structural shifts in the public sector and commercial markets.
 
 Market Strategy & Procurement
-=============================
+_____________________________
 
 For technology vendors and investment firms, understanding the public
 sector landscape is critical. For government bodies, selecting the
