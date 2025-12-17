@@ -1,4 +1,5 @@
 .. title: About Us
+.. hidetitle: True
 .. slug: about-us
 .. date: 2025-12-17 12:42:28 UTC
 .. tags: 
@@ -9,6 +10,8 @@
 
 Our Philosophy: Resilience by Design
 ====================================
+
+|
 
 **The era of linear stability is over.**
 
