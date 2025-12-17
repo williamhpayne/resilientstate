@@ -1,4 +1,5 @@
 .. title: Supporting Public Sector Buyers
+.. hidetitle: True
 .. slug: long-range-public-sector-technology-analysis
 .. date: 2025-12-11 16:27:48 UTC
 .. tags: 
@@ -8,6 +9,9 @@
 .. type: text
 
 
+Future-Proofing Public Investment
+---------------------------------
+
 Public sector agencies cannot afford short-sighted
 investments. Technology purchased today must serve the citizen in
 10 or 15 years, adapting to political, clinical, and societal shifts
@@ -15,17 +19,12 @@ that are currently unseen. We provide independent, long-range
 technology evaluation, ensuring your investment aligns with the
 evolving needs that it must fulfil over its lifetime.
 
---------------
-
-Future-Proofing Public Investment
----------------------------------
-
 Public agencies — from ICBs to Defence Scientific Bodies — operate under
 a unique burden: **long-term accountability** with **finite fiscal
 resources**. A procurement decision made today can create a system
 liability for two decades.
 
-Our service shifts the procurement focus from mere technical
+Our **Public Sector Intelligence** service shifts the procurement focus from mere technical
 specification compliance to **Strategic Roadmap Alignment**. We
 answer the core question: *Will this technology remain fit for
 purpose when current threats evolve and unforeseen crises emerge?*
@@ -33,7 +32,7 @@ purpose when current threats evolve and unforeseen crises emerge?*
 
 
 The Strategic Assessment Framework
-----------------------------------
+==================================
 
 We evaluate vendor offerings — their core technology, long-term
 roadmaps, and organizational capabilities — across three critical
@@ -53,7 +52,7 @@ dimensions:
 |
 
 Our Intelligence Methodology
-----------------------------
+============================
 
 To achieve this rigorous, long-range vetting, we synthesize
 intelligence from an unparalleled range of global and specialist
@@ -75,7 +74,7 @@ sources:
    specific operational culture.
 
 Scenario-Based Testing (10–15 Year Horizon)
--------------------------------------------
+===========================================
 
 We employ **Cross-Impact Analysis (CIA)** and **Field Anomaly
 Relaxation (FAR)** to stress-test the suitability of potential
@@ -88,7 +87,7 @@ resilient.
 
 
 Sector Applications
--------------------
+===================
 
 This assessment is vital for agencies that must make enduring,
 high-stakes investments:
@@ -109,7 +108,7 @@ high-stakes investments:
 
 
 Ready to Mitigate Future Fiscal Risk?
--------------------------------------
+=====================================
 
 Our long-range technology vetting is the foundational step in
 mitigating political fallout and budgetary waste.
@@ -126,7 +125,9 @@ mitigating political fallout and budgetary waste.
 Explore: 
 --------
 
-`Home`_ ; `Our Services`_ ; `Buyer Support`_; `Operational Intelligence`_ ; `Contact Us`_
+.. rst-class:: center
+
+`Home`_ ; `Our Services`_ ; `Buyer Support`_; `Operational Intelligence`_ ; `About Us`_; `Contact Us`_
 
 .. _Our services include: /intelligence-for-a-resilient-future/index.html
 .. _operational intelligence: /operational-intelligence-achieving-the-competitive-edge/index.html 
@@ -134,6 +135,7 @@ Explore:
 .. _Our Services: /intelligence-for-a-resilient-future/index.html
 .. _Buyer Support: /long-range-public-sector-technology-analysis/index.html
 .. _Operational Intelligence: /operational-intelligence-achieving-the-competitive-edge/index.html 
+.. _About Us: /about-us/index.html
 .. _Contact Us: /engage-with-resilient-state/index.html
 .. raw:: html
 
