@@ -1,4 +1,5 @@
 .. title: Our Services: Insight for Future Resilience
+.. hidetitle: True
 .. slug: intelligence-for-a-resilient-future
 .. date: 2025-12-09 09:08:42 UTC
 .. tags: 
@@ -8,13 +9,17 @@
 .. type: text
 .. sectnum:
 
+Insight for Future Resilience
+-----------------------------
+
+|
 
 At Resilient State, we provide the foresight required to navigate the intersection of state resilience, critical infrastructure, and emerging technology.
 
 Our services are designed for leaders in government, defence, healthcare, and technology who need to anticipate complex societal shifts and make evidence-based decisions in high-stakes environments.
 
 Strategic Futures & Scenario Planning
--------------------------------------
+=====================================
 
 We help you rehearse the future before it arrives. Our approach models how technology, public policy, and societal behaviours interact, allowing you to stress-test strategies against multiple potential futures.
 
@@ -23,7 +28,7 @@ We help you rehearse the future before it arrives. Our approach models how techn
 - Risk & Opportunity Identification: We pinpoint "weak signals" of change that others miss, allowing for early intervention or capitalization.
 
 Our Methodology: The Rigour Behind the Forecast 
------------------------------------------------
+===============================================
 
 We utilize structured analytic techniques to reduce bias and increase predictive accuracy:
 
@@ -32,7 +37,7 @@ We utilize structured analytic techniques to reduce bias and increase predictive
 - Cross-Impact Analysis: We quantify how the occurrence of one event (e.g., a policy change) alters the probability of another (e.g., technology adoption), creating a dynamic web of causality.
 
 Operational Intelligence & Horizon Scanning
--------------------------------------------
+===========================================
 
 Data without context is noise. We combine qualitative data analysis with human insight to provide clear, actionable operational intelligence.
 
@@ -43,7 +48,7 @@ Data without context is noise. We combine qualitative data analysis with human i
 - Trend Analysis: Using collective intelligence, we distinguish between temporary fads and structural shifts in the public sector and commercial markets.
 
 Market Strategy & Procurement
------------------------------
+=============================
 
 For technology vendors and investment firms, understanding the public
 sector landscape is critical. For government bodies, selecting the
