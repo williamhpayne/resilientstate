@@ -1,0 +1,34 @@
+{# themes/custom/templates/section_index.tmpl #}
+{% extends 'base.tmpl' %}
+
+{% block content %}
+<header class="index-header">
+    <h1>{{ title }}</h1>
+    <p class="lead">{{ post.description() }}</p>
+</header>
+
+<div class="row section-grid">
+    <div class="col-12 custom-content">
+        {{ post.text() }}
+    </div>
+</div>
+
+<style>
+    .index-header { 
+        padding: 3rem 0; 
+        background: #002f5f; 
+        color: white; 
+        text-align: center; 
+        margin-bottom: 2rem;
+    }
+    .custom-content h2 { 
+        border-bottom: 2px solid #eee; 
+        padding-top: 2rem; 
+        color: #002f5f;
+    }
+    .section-grid ul { list-style: none; padding-left: 0; }
+    .section-grid li { margin-bottom: 1rem; font-size: 1.2rem; }
+    .section-grid a { text-decoration: none; font-weight: bold; }
+</style>
+{% endblock %}
+

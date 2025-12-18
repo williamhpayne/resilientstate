@@ -24,13 +24,13 @@ We help you rehearse the future before it arrives. Our approach models how techn
 
 - Complex Interaction Modelling: We map the dependencies between state actors, public services, and market forces to identify second and third-order effects of strategic decisions.
 
-- Risk & Opportunity Identification: We pinpoint "weak signals" of change that others miss, allowing for early intervention or capitalization.
+- Risk & Opportunity Identification: We pinpoint "weak signals" of change that others miss, allowing for early intervention or capitalisation.
 
 **Our Methodology:**
 
-We utilize structured analytic techniques to reduce bias and increase predictive accuracy:
+We utilise structured analytic techniques to reduce bias and increase predictive accuracy:
 
-- Field Anomaly Relaxation (FAR): A powerful form of morphological analysis. We use FAR to filter out inconsistent future scenarios, leaving only the plausible "fields" of engagement. This ensures you plan for realistic futures, not fantasy.
+- Field Anomaly Relaxation (FAR): A powerful form of morphological analysis. We use FAR to filter out inconsistent future scenarios, leaving only the plausible "fields" of engagement. This ensures you plan for realistic futures.
 
 - Cross-Impact Analysis: We quantify how the occurrence of one event (e.g., a policy change) alters the probability of another (e.g., technology adoption), creating a dynamic web of causality.
 
@@ -62,7 +62,7 @@ right innovation is vital. We bridge this gap.
 -  **Vendor & Roadmap Assessment:** We evaluate the alignment of
    vendor technologies, capabilities, and roadmaps with buyer
    strategic objectives and future scenarios spanning a 10-to-15-year
-   horizon. Our analysis synthesizes experience from UK, EU, Latin
+   horizon. Our analysis synthesises experience from UK, EU, Latin
    American, Far Eastern, and Middle Eastern markets, academic
    research, and public sector feedback. We employ **Cross-Impact
    Analysis (CIA)** and **Field Anomaly Relaxation (FAR)** to

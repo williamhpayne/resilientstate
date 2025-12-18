@@ -1,0 +1,32 @@
+[2025-12-18 13:40:39] INFO: nikola.templates: Template usage being traced to file templates_trace.log
+[2025-12-18 13:44:12] INFO: nikola.templates: Template usage being traced to file templates_trace.log
+[2025-12-18 13:44:13] DEBUG: nikola.templates: Template gallery.tmpl builds output/galleries/index.html
+[2025-12-18 13:44:13] DEBUG: nikola.templates: For galleries/demo/index.txt, template gallery.tmpl builds output/galleries/demo/index.html
+[2025-12-18 13:44:13] DEBUG: nikola.templates: Template archive.tmpl builds output/archive.html
+[2025-12-18 13:44:13] DEBUG: nikola.templates: Template index.tmpl builds output/blog/index.html
+[2025-12-18 13:44:13] DEBUG: nikola.templates: Template tags.tmpl builds output/categories/index.html
+[2025-12-18 13:44:13] DEBUG: nikola.templates: Template listing.tmpl builds output/listings/index.html
+[2025-12-18 13:44:13] DEBUG: nikola.templates: Template listing.tmpl builds output/listings/hello.py.html
+[2025-12-18 13:44:13] DEBUG: nikola.templates: Template listing.tmpl builds output/listings/__pycache__/index.html
+[2025-12-18 13:44:13] DEBUG: nikola.templates: For pages/theming.rst, template page.tmpl builds output/theming/index.html
+[2025-12-18 13:44:13] DEBUG: nikola.templates: For pages/operational-intelligence-achieving-the-competitive-edge.rst, template page.tmpl builds output/operational-intelligence-achieving-the-competitive-edge/index.html
+[2025-12-18 13:44:13] DEBUG: nikola.templates: For pages/creating-a-theme.rst, template page.tmpl builds output/creating-a-theme/index.html
+[2025-12-18 13:44:14] DEBUG: nikola.templates: For pages/intelligence-for-a-resilient-future.rst, template page.tmpl builds output/intelligence-for-a-resilient-future/index.html
+[2025-12-18 13:44:14] DEBUG: nikola.templates: For pages/charts.rst, template page.tmpl builds output/charts/index.html
+[2025-12-18 13:44:14] DEBUG: nikola.templates: For pages/index.rst, template page.tmpl builds output/index.html
+[2025-12-18 13:44:14] DEBUG: nikola.templates: For pages/social_buttons.rst, template page.tmpl builds output/social_buttons/index.html
+[2025-12-18 13:44:14] DEBUG: nikola.templates: For pages/dr-nikolas-vendetta.rst, template book.tmpl builds output/dr-nikolas-vendetta/index.html
+[2025-12-18 13:44:14] DEBUG: nikola.templates: For pages/listings-demo.rst, template page.tmpl builds output/listings-demo/index.html
+[2025-12-18 13:44:14] DEBUG: nikola.templates: For pages/path_handlers.rst, template page.tmpl builds output/path-handlers/index.html
+[2025-12-18 13:44:14] DEBUG: nikola.templates: For pages/1.rst, template page.tmpl builds output/about-nikola/index.html
+[2025-12-18 13:44:14] DEBUG: nikola.templates: For pages/about-us.rst, template page.tmpl builds output/about-us/index.html
+[2025-12-18 13:44:14] DEBUG: nikola.templates: For pages/bootstrap-demo.rst, template page.tmpl builds output/bootstrap-demo/index.html
+[2025-12-18 13:44:14] DEBUG: nikola.templates: For pages/extending.rst, template page.tmpl builds output/extending/index.html
+[2025-12-18 13:44:14] DEBUG: nikola.templates: For pages/internals.rst, template page.tmpl builds output/internals/index.html
+[2025-12-18 13:44:14] DEBUG: nikola.templates: For pages/manual.rst, template page.tmpl builds output/handbook/index.html
+[2025-12-18 13:44:14] DEBUG: nikola.templates: For pages/quickref.rst, template page.tmpl builds output/quickref/index.html
+[2025-12-18 13:44:14] DEBUG: nikola.templates: For pages/long-range-public-sector-technology-analysis.rst, template page.tmpl builds output/long-range-public-sector-technology-analysis/index.html
+[2025-12-18 13:44:14] DEBUG: nikola.templates: For pages/quickstart.rst, template page.tmpl builds output/quickstart/index.html
+[2025-12-18 13:44:14] DEBUG: nikola.templates: For pages/engage-with-resilient-state.rst, template page.tmpl builds output/engage-with-resilient-state/index.html
+[2025-12-18 13:44:26] INFO: nikola.templates: Template usage being traced to file templates_trace.log
+[2025-12-18 13:47:18] INFO: nikola.templates: Template usage being traced to file templates_trace.log

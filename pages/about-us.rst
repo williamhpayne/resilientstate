@@ -17,8 +17,8 @@ Our Philosophy: Resilience by Design
 
 For decades, public policy and corporate strategy were driven by a
 single metric: Efficiency. Systems were designed to run lean, assuming a
-stable world. But in an age of “polycrisis”—where cyber threats,
-biological volatility, and geopolitical friction intersect—efficiency
+stable world. But in an age of "polycrisis" — where cyber threats,
+biological volatility, and geopolitical friction intersect — efficiency
 without resilience is a liability.
 
 **Resilient State** was founded on a singular premise: That the state,
@@ -34,20 +34,20 @@ system is impossible. Instead, we offer **Foresight**.
 We believe that while you cannot predict the exact date of the next
 pandemic or cyber-siege, you can mathematically model the structural
 vulnerabilities they will exploit. We help our clients move from
-“Reacting to Events” to “Rehearsing Futures.”
+"Reacting to Events" to "Rehearsing Futures."
 
 The Methodology of Rigour
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In a world saturated with opinion, we deal in evidence.
 
-We reject the “guru” model of consultancy. Instead, we apply structured
+We reject the "guru" model of consultancy. Instead, we apply structured
 analytic techniques derived from the intelligence and defence sectors.
-By utilizing **Cross-Impact Analysis**, **Field Anomaly Relaxation
+By utilising **Cross-Impact Analysis**, **Field Anomaly Relaxation
 (FAR)**, and **Graph Theory**, we strip away cognitive bias to reveal
 the raw mechanics of future risks.
 
-   **“Resilience is not a fortress. It is an immune system.”** A
+   **"Resilience is not a fortress. It is an immune system."** A
    fortress is strong until it cracks. An immune system learns, adapts,
    and gets stronger with every attack. Whether we are advising on
    National Healthcare infrastructure or Defence procurement, we design
@@ -61,10 +61,10 @@ We are technophiles, but we are not techno-utopians.
 We believe the future of intelligence lies in the synthesis of **Human
 Insight** and **Computational Power**.
 
--  **The Machine** processes the noise—scanning millions of data points
+-  **The Machine** processes the noise — scanning millions of data points
    across global procurement and threat landscapes.
 
--  **The Human** provides the signal—applying political nuance, ethical
+-  **The Human** provides the signal — applying political nuance, ethical
    context, and strategic wisdom that no algorithm can replicate.
 
 Who We Are
@@ -80,8 +80,8 @@ the intersection of:
 
 -  **The Future:** Emerging Technology and Horizon Risks.
 
-We exist to ensure that when the future arrives—however complex it may
-be—you are ready to meet it.
+We exist to ensure that when the future arrives — however complex it may
+be — you are ready to meet it.
 
 .. raw:: html
 

@@ -1,0 +1,38 @@
+{# themes/custom/templates/briefing.tmpl #}
+{% extends 'post.tmpl' %}
+
+{% block content %}
+<article class="briefing-note">
+    <header class="briefing-header">
+        <h1 class="p-name entry-title">{{ post.title()|e }}</h1>
+        <div class="metadata">
+            <p class="byline"><strong>Prepared for:</strong> {{ post.meta('audience') or 'Policy Stakeholders' }}</p>
+            <p class="dateline"><strong>Date:</strong> <time datetime="{{ post.date.isoformat() }}">{{ post.formatted_date(date_format) }}</time></p>
+        </div>
+        <hr>
+    </header>
+
+    <div class="row">
+        <div class="col-md-8">
+            <div class="e-content entry-content">
+                {{ post.text() }}
+            </div>
+        </div>
+
+        <aside class="col-md-4 briefing-sidebar">
+            <div class="key-takeaways-box">
+                <h4><i class="fa fa-lightbulb"></i> Key Takeaways</h4>
+                {{ post.meta('takeaways') }}
+            </div>
+            
+            {% if post.meta('download_link') %}
+            <div class="download-action">
+                <a href="{{ post.meta('download_link') }}" class="btn btn-primary btn-block">
+                    <i class="fa fa-file-pdf"></i> Download PDF Version
+                </a>
+            </div>
+            {% endif %}
+        </aside>
+    </div>
+</article>
+{% endblock %}

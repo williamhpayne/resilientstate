@@ -154,7 +154,7 @@ NAVIGATION_LINKS = (
             ),
         (
             (
-                ('', 'NHS'),
+                ('', 'Scenarios'),
                 ('/archive.html', 'Scenarios Archive'),
                 ('/categories/', 'Scenarios Tags'),
                 ('/rss.xml', 'Scenarios RSS feed'),
@@ -163,21 +163,21 @@ NAVIGATION_LINKS = (
             ),
         (
              (
-                ('', 'NHS'),
-                ('/archive.html', 'Scenarios Archive'),
-                ('/categories/', 'Scenarios Tags'),
-                ('/rss.xml', 'Scenarios RSS feed'),
+                ('', 'Briefings'),
+                ('/archive.html', 'Briefings Archive'),
+                ('/categories/', 'Briefings Tags'),
+                ('/rss.xml', 'Briefings RSS feed'),
                 ),
             'Briefing Notes'
             ),
         (
             (
-                ('', 'NHS'),
-                ('/archive.html', 'Scenarios Archive'),
-                ('/categories/', 'Scenarios Tags'),
-                ('/rss.xml', 'Scenarios RSS feed'),
+                ('/posts/', 'Insight'),
+                ('/archive.html', 'Insight Archive'),
+                ('/categories/', 'Insight Tags'),
+                ('/rss.xml', 'Insight RSS feed'),
                 ),
-            'Posts'
+            'Insight'
             ),
  
         ('/about-us/index.html', 'About Us'),
@@ -239,6 +239,67 @@ THEME_CONFIG = {
 #     }
 # }
 
+# 1. Enable the Folder-to-Category mapping
+# This ensures a file in briefings/policy.rst is automatically categorized as 'briefings'
+#CATEGORY_DESTPATH_AS_DEFAULT = True
+#
+## 2. Define the Titles for your senior audience
+#CATEGORY_TITLES = {
+#    "scenarios": "Strategic Scenarios & Futures Analysis",
+#    "briefings": "Executive Briefing Notes",
+#    "posts": "Consultancy Insights & News",
+#}
+#
+## 3. Add authoritative descriptions (used by some templates and for SEO)
+#CATEGORY_DESCRIPTIONS = {
+#    "scenarios": "Long-term (15-year) strategic outlooks for government and industry leaders.",
+#    "briefings": "Concise, actionable policy responses and technical briefing notes.",
+#}
+#
+## 4. Your POSTS tuple remains the engine for file location
+#POSTS = (
+#    ("posts/*.rst", "blog", "post.tmpl"),
+#    ("scenarios/*.rst", "scenarios", "page.tmpl"),
+#    ("briefings/*.rst", "briefings", "briefing.tmpl"),
+#)
+#
+## 5. Tell Nikola where to build category pages
+## By default, Nikola might put categories under /categories/scenarios.
+## To keep your URLs clean (/scenarios/index.html), use this:
+#CATEGORY_PAGES_DESTPATH_NAMES = {
+#    "scenarios": "scenarios",
+#    "briefings": "briefings",
+#}
+#
+#---
+#
+#POSTS = (
+#    # (Source, Target URL, Template, Use Drafts, Use Future, Create Index?)
+#    
+#    # 1. Your Main Blog (Still gets an index)
+#    ("posts/*.rst", "blog", "post.tmpl", True, True, True),
+#
+#    # 2. Scenarios (We will supply the index manually)
+#    ("scenarios/*.rst", "scenarios", "scenario.tmpl", True, True, False), # <-- Set to False
+#
+#    # 3. Briefings (We will supply the index manually)
+#    ("briefings/*.rst", "briefings", "briefing.tmpl", True, True, False), # <-- Set to False
+#)
+#
+#
+#POSTS_SECTION_TITLE = {
+#    "blog": "Insights and News",
+#    "scenarios": "Scenarios and Long-Term Futures Analysis",
+#    "briefings": "Executive Policy Briefing Notes",
+#}
+#
+## Optional: Ensure these don't appear in the main blog feed
+## if you want them strictly separate.
+#POSTS_SECTION_COLORS = {
+#    "briefings": "blue",
+#    "scenarios": "green",
+#}
+
 # POSTS and PAGES contains (wildcard, destination, template) tuples.
 # (translatable)
 #
@@ -273,12 +334,13 @@ THEME_CONFIG = {
 #         ("pages/*.md", {"en": "pages", "de": "seiten"}, "page.tmpl"),
 #     )
 
-POSTS = (
-    ("posts/*.rst", "blog", "post.tmpl"),
-    ("posts/*.md", "blog", "post.tmpl"),
-    ("posts/*.txt", "blog", "post.tmpl"),
-    ("posts/*.html", "blog", "post.tmpl"),
-)
+# POSTS = (
+#    ("posts/*.rst", "blog", "post.tmpl"),
+#    ("posts/*.md", "blog", "post.tmpl"),
+#    ("posts/*.txt", "blog", "post.tmpl"),
+#    ("posts/*.html", "blog", "post.tmpl"),
+#)
+
 PAGES = (
     ("pages/*.rst", "", "page.tmpl"),
     ("pages/*.md", "", "page.tmpl"),
@@ -1023,7 +1085,7 @@ LICENSE = ""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}'
+# CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}'
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
