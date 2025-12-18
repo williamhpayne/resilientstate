@@ -15,7 +15,7 @@ Stop Chasing Tenders. Start Shaping Strategy.
 
 Many suppliers are stuck in a reactive cycle — responding to procurements only when they are announced. By then, the strategy is set, and the opportunity is often already lost.
 
-Our **Public Sector Operational Intelligence** moves you from reactive to predictive. We equip vendors with the foresight to influence requirements, prioritize resources, and outmanoeuvre the competition.
+Our **Public Sector Operational Intelligence** moves you from reactive to predictive. We equip vendors with the foresight to influence requirements, prioritise resources, and outmanoeuvre the competition.
 
 Our Three-Pillar Approach:
 

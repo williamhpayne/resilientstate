@@ -24,3 +24,32 @@ table {
 
 .center { text-align: center; }
 
+/* Styling for the Briefing Note */
+.briefing-note {
+    font-family: "Georgia", serif; /* More formal for long-form reading */
+    line-height: 1.6;
+    color: #333;
+}
+
+.briefing-header h1 {
+    font-weight: 800;
+    color: #002f5f; /* Deep corporate blue */
+    border-bottom: 3px solid #002f5f;
+    padding-bottom: 10px;
+}
+
+.key-takeaways-box {
+    background-color: #f8f9fa;
+    border-left: 5px solid #005eb8; /* NHS Blue or similar */
+    padding: 20px;
+    margin-bottom: 20px;
+    font-size: 0.95rem;
+}
+
+.briefing-sidebar h4 {
+    text-transform: uppercase;
+    font-size: 1rem;
+    letter-spacing: 1px;
+    color: #005eb8;
+}
+

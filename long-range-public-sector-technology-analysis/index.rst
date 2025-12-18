@@ -35,7 +35,7 @@ The Strategic Assessment Framework
 ==================================
 
 We evaluate vendor offerings — their core technology, long-term
-roadmaps, and organizational capabilities — across three critical
+roadmaps, and organisational capabilities — across three critical
 dimensions:
 
 |
@@ -54,7 +54,7 @@ dimensions:
 Our Intelligence Methodology
 ============================
 
-To achieve this rigorous, long-range vetting, we synthesize
+To achieve this rigorous, long-range vetting, we synthesise
 intelligence from an unparalleled range of global and specialist
 sources:
 
@@ -64,7 +64,7 @@ sources:
    Middle East, to identify proven solutions and structural failures
    elsewhere.
 
--  **Specialist Research:** We utilize academic research papers and
+-  **Specialist Research:** We utilise academic research papers and
    institutional studies to test vendor claims against specific
    specialist clinical, research, or public policy requirements.
 
