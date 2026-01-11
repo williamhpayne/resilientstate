@@ -26,9 +26,6 @@ We have worked with: The UK Home Office, the FCDO, the NHS, major investment fir
    <br>
    <br>
 
-Explore: 
---------
-
 .. rst-class:: center
 
 `Home`_ ; `Our Services`_ ; `Buyer Support`_; `Operational Intelligence`_ ; `About Us`_; `Contact Us`_

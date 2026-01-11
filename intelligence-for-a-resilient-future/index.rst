@@ -74,8 +74,6 @@ right innovation is vital. We bridge this gap.
    <br>
    <br>
 
-Explore: 
---------
 
 .. rst-class:: center
 

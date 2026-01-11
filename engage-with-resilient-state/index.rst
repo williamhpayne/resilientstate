@@ -47,9 +47,6 @@ Headquarters: London, United Kingdom. Operating Range: UK, EU, and Five Eyes Nat
    <br>
    <br>
 
-Explore: 
---------
-
 .. rst-class:: center
 
 `Home`_ ; `Our Services`_ ; `Buyer Support`_; `Operational Intelligence`_ ; `About Us`_; `Contact Us`_
