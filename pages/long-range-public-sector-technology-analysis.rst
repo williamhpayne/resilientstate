@@ -122,9 +122,6 @@ mitigating political fallout and budgetary waste.
    <br>
    <br>
 
-Explore: 
---------
-
 .. rst-class:: center
 
 `Home`_ ; `Our Services`_ ; `Buyer Support`_; `Operational Intelligence`_ ; `About Us`_; `Contact Us`_
