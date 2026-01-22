@@ -23,16 +23,19 @@ How we can help you today:
 
 **1. Strategic Discovery Briefing**
 
-Best for: Policy Makers, NHS Leaders, Senior Executives. Schedule a confidential, 30-minute consultation to discuss your specific resilience challenges. We will provide an initial assessment of how our Cross-Impact Analysis can be applied to your sector. {{% mybutton url="mailto:" text="Request Briefing" %}}
+Best for: Policy Makers, NHS Leaders, Senior Executives. Schedule a confidential, 30-minute consultation to discuss your specific resilience challenges. We will provide an initial assessment of how our services can be applied to your sector. `Contact for Strategic Discovery <../contact-strategic/>`_
+
 
 **2. Vendor Market Access Assessment**
 
-Best for: Technology Suppliers, Startups, Investment Firms. Looking to enter the UK/EU Critical Infrastructure market? Contact us to discuss an initial "Market Fit & Competitor Landscape" assessment. {{% mybutton url="mailto:" text="Discuss Market Access" %}}
+Best for: Technology Suppliers, Startups, Investment Firms. Looking to enter the UK/EU Critical Infrastructure market? Contact us to discuss an initial "Market Fit & Competitor Landscape" assessment. `Contact for Market Access Assessment <../contact-market/>`_
 
 
 **3. General Inquiries**
 
-For media inquiries, partnership proposals, or general information regarding our services. {{% mybutton url="mailto:" text="Contact the Team" %}}
+For media inquiries, partnership proposals, or general information regarding our services. `Contact for Market Access Assessment <../contact-general/>`_
+
+ 
 
 |
 
