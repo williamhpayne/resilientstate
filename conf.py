@@ -26,6 +26,7 @@ SITE_URL = 'https://www.resilientstate.co.uk/'
 # BASE_URL = "https://www.resilientstate.co.uk/"
 BLOG_EMAIL = ""
 BLOG_DESCRIPTION = "Navigating the Future of State Resilience"  # (translatable)
+USE_CANONICAL_URLS = True
 
 # Nikola is multilingual!
 #
