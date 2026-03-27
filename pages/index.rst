@@ -12,7 +12,7 @@ Combining qualitative data with human insight, we help organisations navigate th
 
 We specialise in high stakes sectors including critical national infrastructure, defence, policing, and healthcare. 
 
-Our approach goes beyond standard analysis. We employ advanced scenario planning — including Cross Impact Analysis and Field Anomaly Relaxation (FAR) — to model future risks and opportunities. 
+Our approach goes beyond standard analysis. We employ non-linear future scenario planning — including Cross Impact Analysis and Field Anomaly Relaxation (FAR) — to model future risks and opportunities. 
 
 `Our services include`_ : technology and societal futures forecasting, horizon scanning, public policy analysis, UK/EU procurement evaluation, and public sector `operational intelligence`_ .
 
